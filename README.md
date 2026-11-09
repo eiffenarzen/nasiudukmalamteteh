@@ -18,3 +18,4 @@ Website ini aktif 24/7 dan bisa diakses langsung lewat HP maupun laptop tanpa pe
 ## 🛠️ Cara Edit Konten
 - Jika mengedit versi online (GitHub Pages): cukup ubah berkas `index.html`.
 - Jika mengedit versi lokal PHP (Laragon): ubah berkas `config.php`.
+

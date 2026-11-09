@@ -16,9 +16,9 @@ return [
     // Kontak & tautan (GANTI dengan link akun kamu)
     'whatsapp'  => '',               // format 628xxxxxxxxxx (tanpa + dan spasi); kosongkan jika tidak ada
     'links' => [
-        'instagram' => 'https://www.instagram.com/',   // contoh: https://www.instagram.com/username
-        'facebook'  => 'https://www.facebook.com/',    // contoh: link halaman Facebook
-        'maps'      => 'https://maps.google.com/',     // tempel link Google Maps lapak
+        'instagram' => 'https://www.instagram.com/nasiuduk.malamteteh?obrf=MTAyeGExbGprdTc4bg==',
+        'facebook'  => 'https://www.facebook.com/share/1CRcS7XKoi/',
+        'maps'      => 'https://share.google/aZBjG2Rs7EvpL94hK',
     ],
 
     // Menu
